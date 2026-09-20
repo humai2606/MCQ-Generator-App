@@ -2,7 +2,7 @@
 
 An AI-powered Multiple Choice Question Generator built using Python, Streamlit, and Groq LLM.
 
-## APP LINK="mcq-generator-app ∙ main ∙ app.py"
+## APP LINK=https://mcq-generator-app-hrqftmhnxabql3whxgeqta.streamlit.app/
 
 
 ## Features
